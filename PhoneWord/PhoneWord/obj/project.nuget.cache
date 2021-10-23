@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "jlapEVd/5jYHh14ysg36FdILdCJPjbDjoytoPz/GdN7XoFy3oLLY0fpeGhdiaI44u2kaHdvnmwsB4aHrEH/BFA==",
+  "success": true,
+  "projectFilePath": "/Users/dlugi.info/RiderProjects/PhoneWord/PhoneWord/PhoneWord/PhoneWord.csproj",
+  "expectedPackageFiles": [
+    "/Users/dlugi.info/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/dlugi.info/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/dlugi.info/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/dlugi.info/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/dlugi.info/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

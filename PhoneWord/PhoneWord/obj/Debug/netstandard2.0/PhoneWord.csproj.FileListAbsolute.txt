@@ -1,0 +1,11 @@
+/Users/dlugi.info/RiderProjects/PhoneWord/PhoneWord/PhoneWord/bin/Debug/netstandard2.0/PhoneWord.deps.json
+/Users/dlugi.info/RiderProjects/PhoneWord/PhoneWord/PhoneWord/bin/Debug/netstandard2.0/PhoneWord.dll
+/Users/dlugi.info/RiderProjects/PhoneWord/PhoneWord/PhoneWord/bin/Debug/netstandard2.0/PhoneWord.pdb
+/Users/dlugi.info/RiderProjects/PhoneWord/PhoneWord/PhoneWord/obj/Debug/netstandard2.0/PhoneWord.csprojAssemblyReference.cache
+/Users/dlugi.info/RiderProjects/PhoneWord/PhoneWord/PhoneWord/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dlugi.info/RiderProjects/PhoneWord/PhoneWord/PhoneWord/obj/Debug/netstandard2.0/PhoneWord.AssemblyInfoInputs.cache
+/Users/dlugi.info/RiderProjects/PhoneWord/PhoneWord/PhoneWord/obj/Debug/netstandard2.0/PhoneWord.AssemblyInfo.cs
+/Users/dlugi.info/RiderProjects/PhoneWord/PhoneWord/PhoneWord/obj/Debug/netstandard2.0/PhoneWord.csproj.CoreCompileInputs.cache
+/Users/dlugi.info/RiderProjects/PhoneWord/PhoneWord/PhoneWord/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dlugi.info/RiderProjects/PhoneWord/PhoneWord/PhoneWord/obj/Debug/netstandard2.0/PhoneWord.dll
+/Users/dlugi.info/RiderProjects/PhoneWord/PhoneWord/PhoneWord/obj/Debug/netstandard2.0/PhoneWord.pdb
