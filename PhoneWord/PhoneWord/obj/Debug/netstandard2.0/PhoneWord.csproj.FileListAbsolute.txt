@@ -9,3 +9,4 @@
 /Users/dlugi.info/RiderProjects/PhoneWord/PhoneWord/PhoneWord/obj/Debug/netstandard2.0/XamlC.stamp
 /Users/dlugi.info/RiderProjects/PhoneWord/PhoneWord/PhoneWord/obj/Debug/netstandard2.0/PhoneWord.dll
 /Users/dlugi.info/RiderProjects/PhoneWord/PhoneWord/PhoneWord/obj/Debug/netstandard2.0/PhoneWord.pdb
+/Users/dlugi.info/RiderProjects/PhoneWord/PhoneWord/PhoneWord/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
